@@ -1,0 +1,361 @@
+[07-Jul-2015 18:25:23 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 55
+[07-Jul-2015 18:25:31 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 55
+[07-Jul-2015 18:25:33 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 55
+[07-Jul-2015 18:25:43 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 55
+[07-Jul-2015 18:26:44 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 55
+[07-Jul-2015 18:33:30 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:33:30 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:33:30 America/Denver] PHP Warning:  include(): Failed opening 'productinfo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:35:53 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 53
+[07-Jul-2015 18:35:57 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/rgdclients/public_html/admin/homepageadd.php on line 53
+[07-Jul-2015 18:40:31 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:40:31 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:40:31 America/Denver] PHP Warning:  include(): Failed opening 'productinfo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:40:55 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:40:55 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:40:55 America/Denver] PHP Warning:  include(): Failed opening 'productinfo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:48:53 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:48:53 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:48:53 America/Denver] PHP Warning:  include(): Failed opening 'productinfo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:49:02 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:49:02 America/Denver] PHP Warning:  include(productinfo.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:49:02 America/Denver] PHP Warning:  include(): Failed opening 'productinfo.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/admin/homepageadd.php on line 30
+[07-Jul-2015 18:50:37 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 3
+[07-Jul-2015 18:50:37 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 5
+[07-Jul-2015 18:50:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 3
+[07-Jul-2015 18:50:49 America/Denver] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 5
+[07-Jul-2015 19:38:49 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 3
+[07-Jul-2015 20:36:09 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/rgdclients/public_html/admin/homepageadd.php on line 6
+[07-Jul-2015 21:13:05 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 8
+[07-Jul-2015 21:13:05 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUnpHzM' to '/mockups/homepage.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 8
+[07-Jul-2015 21:40:18 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/rgd.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[07-Jul-2015 21:40:18 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfGHYRd' to '/mockups/homepage/rgd.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[07-Jul-2015 21:48:15 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/logo large.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:48:15 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeIlBGe' to '/mockups/homepage/logo large.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:48:44 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/logo large.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:48:44 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMqOBm1' to '/mockups/homepage/logo large.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:48:56 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/rgd.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:48:56 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj2D7Sk' to '/mockups/homepage/rgd.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:49:35 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepagergd.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:49:35 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2jwRso' to '/mockups/homepagergd.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:49:48 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepagergd.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 21:49:48 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplnYPM0' to '/mockups/homepagergd.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[07-Jul-2015 22:25:11 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 8
+[07-Jul-2015 22:25:11 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8ukCf9' to '/mockups/homepage.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 8
+[07-Jul-2015 23:20:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:20:43 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:20:47 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:20:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:23:38 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:23:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[07-Jul-2015 23:23:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[08-Jul-2015 02:13:59 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[08-Jul-2015 08:22:06 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[08-Jul-2015 08:22:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[08-Jul-2015 09:48:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageadd.php on line 81
+[08-Jul-2015 09:48:57 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageadd.php on line 81
+[08-Jul-2015 12:19:17 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:19:17 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 70
+[08-Jul-2015 12:20:35 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:20:35 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:20:35 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:20:35 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:20:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:20:53 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:20:53 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:20:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:36:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:36:00 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:36:00 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:36:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:36:03 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:36:03 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:36:15 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:36:15 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:36:15 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:38:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:38:26 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:38:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:38:30 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:39:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:39:36 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:40:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:40:05 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:40:05 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:40:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:40:19 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:40:19 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:40:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 51
+[08-Jul-2015 12:40:32 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:40:32 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 12:43:54 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 12:43:54 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:43:56 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 12:43:56 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:44:08 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 12:44:08 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:44:21 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 12:44:21 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 12:44:46 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 12:44:46 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:19:49 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:19:49 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:19:52 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:19:52 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:20:04 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:20:04 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:22:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 69
+[08-Jul-2015 19:22:45 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 69
+[08-Jul-2015 19:22:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/homepageadd.php on line 69
+[08-Jul-2015 19:22:49 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 69
+[08-Jul-2015 19:35:36 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:35:36 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:35:47 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:35:47 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:38:59 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:38:59 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:39:03 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:39:03 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 19:39:13 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 19:39:13 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:00:34 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:00:34 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:00:37 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:00:37 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:00:46 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:00:46 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:01:46 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:01:46 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:02:12 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[08-Jul-2015 20:02:12 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNVsdrI' to '/mockups/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[08-Jul-2015 20:02:12 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:02:12 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:02:28 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/download.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[08-Jul-2015 20:02:28 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpa0RM1K' to '/mockups/homepage/download.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 42
+[08-Jul-2015 20:02:28 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 76
+[08-Jul-2015 20:02:28 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:08:03 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:08:03 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:08:14 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:08:14 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:08:16 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:08:16 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:08:25 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:08:25 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:13:48 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:13:48 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:13:50 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:13:50 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:14:14 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:14:14 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdNQ02l' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:14:14 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:14:14 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:15:49 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:15:49 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:15:52 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:15:52 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:16:00 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/download.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:16:00 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpv38q57' to '/mockups/homepage/download.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:16:00 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:16:00 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:19:33 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:19:33 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:19:36 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:19:36 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:19:42 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:19:42 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:20:57 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:20:57 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:21:00 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:21:00 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:34:56 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/homepageadd.php on line 77
+[08-Jul-2015 20:34:56 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 78
+[08-Jul-2015 20:34:56 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 90
+[08-Jul-2015 20:36:11 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 96
+[08-Jul-2015 20:36:20 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:36:20 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAGlns7' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:36:20 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 96
+[08-Jul-2015 20:39:04 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 81
+[08-Jul-2015 20:39:08 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 81
+[08-Jul-2015 20:42:01 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 82
+[08-Jul-2015 20:42:33 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 20:50:50 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 98
+[08-Jul-2015 20:51:01 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:51:01 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvSEg9U' to '/mockups/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:51:01 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 98
+[08-Jul-2015 20:55:38 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 99
+[08-Jul-2015 20:55:42 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 99
+[08-Jul-2015 20:55:52 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:55:52 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpv3qIdZ' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 20:55:52 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 99
+[08-Jul-2015 20:58:58 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 20:59:04 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:00:13 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:02:09 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:03:03 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:03:34 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:06:16 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:06:16 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6hJe2H' to '/mockups/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:07:37 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:07:37 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfKiWpL' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:10:15 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:10:19 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:10:31 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:10:31 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFOHaOt' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:10:31 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:13:10 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:13:14 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:13:21 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:13:21 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpad61jH' to '/mockups/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:13:21 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:15:01 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:15:04 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:15:12 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:15:12 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzHmafN' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:15:12 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:16:24 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:16:27 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/rgdclients/public_html/admin/homepageadd.php on line 100
+[08-Jul-2015 21:36:32 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:36:32 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmhbkof' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:45:51 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:45:51 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpp6uFSg' to '/mockups/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:49:32 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/Cherry Bomb Productions/download.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:49:32 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqpvPT1' to '/mockups/homepage/Cherry Bomb Productions/download.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 43
+[08-Jul-2015 21:52:56 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/RGDeuceMedia/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 21:52:56 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1NRsYL' to '/mockups/homepage/RGDeuceMedia/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 21:54:32 America/Denver] PHP Warning:  move_uploaded_file(/mockupsCherryBombProductions/homepage/download.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 21:54:32 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4OCaRK' to '/mockupsCherryBombProductions/homepage/download.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 21:57:17 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/homepageinfo.php on line 2
+[08-Jul-2015 21:57:17 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/admin/homepageinfo.php on line 2
+[08-Jul-2015 21:57:17 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 3
+[08-Jul-2015 21:57:31 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuceMedia/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 21:57:31 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7msqVB' to '/mockups/RGDeuceMedia/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 21:58:08 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 21:58:08 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpY6qhP4' to '/mockups/RGDeuce/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:08:52 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:08:52 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzPrcUU' to '/mockups/RGDeuce/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:09:32 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/download.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:09:32 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEkSanw' to '/mockups/RGDeuce/homepage/download.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:10:38 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/last king of scotland.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:10:38 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpB9Jj90' to '/mockups/RGDeuce/homepage/last king of scotland.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:12:38 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/bad santa.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:12:38 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdG9DBO' to '/mockups/RGDeuce/homepage/bad santa.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:12:56 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/2cpxoh2.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:12:56 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1pjcKm' to '/mockups/RGDeuce/homepage/2cpxoh2.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:14:59 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/51Y0hzR26yL__SS500_.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:14:59 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDlEyfm' to '/mockups/RGDeuce/homepage/51Y0hzR26yL__SS500_.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 45
+[08-Jul-2015 22:15:39 America/Denver] PHP Warning:  move_uploaded_file(/mockups/homepage/2l97clt.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 22:15:39 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqnCLf7' to '/mockups/homepage/2l97clt.jpg' in /home/rgdclients/public_html/admin/homepageadd.php on line 44
+[08-Jul-2015 23:26:51 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/2cpxoh2.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:26:51 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpODUHFq' to '/mockups/RGDeuce/homepage/2cpxoh2.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:30:09 America/Denver] PHP Warning:  move_uploaded_file(/mockups//homepage/20081104024657%21808nheartbreakcover.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:30:09 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfbVP3V' to '/mockups//homepage/20081104024657%21808nheartbreakcover.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:30:44 America/Denver] PHP Warning:  move_uploaded_file(/mockups//homepage/100319105156754364.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:30:44 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5HQOfX' to '/mockups//homepage/100319105156754364.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:38:45 America/Denver] PHP Warning:  move_uploaded_file(/mockups/CherryBombProductions/homepage/212irtu.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:38:45 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpykytja' to '/mockups/CherryBombProductions/homepage/212irtu.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:40:28 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuceMedia/homepage/275669.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:40:28 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJfWJPU' to '/mockups/RGDeuceMedia/homepage/275669.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:41:28 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/2cpxoh2.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:41:28 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9g0eaj' to '/mockups/RGDeuce/homepage/2cpxoh2.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:44:57 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuceMedia/homepage/2l97clt.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:44:57 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqAu8jT' to '/mockups/RGDeuceMedia/homepage/2l97clt.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:49:27 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/512UlyHe5QL__SS400_.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:49:27 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeY2Fgl' to '/mockups/RGDeuce/homepage/512UlyHe5QL__SS400_.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:56:58 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/beyonce.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:56:58 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppy5r9C' to '/mockups/RGDeuce/homepage/beyonce.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:57:40 America/Denver] PHP Warning:  move_uploaded_file(/mockups/RGDeuce/homepage/aijuswanaseing.jpg): failed to open stream: No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[08-Jul-2015 23:57:40 America/Denver] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phputj3Bv' to '/mockups/RGDeuce/homepage/aijuswanaseing.jpg' in /home/rgdclients/public_html/admin/uploadphp.php on line 27
+[09-Jul-2015 00:25:31 America/Denver] PHP Warning:  mkdir(): No such file or directory in /home/rgdclients/public_html/admin/uploadphp.php on line 26
+[09-Jul-2015 01:59:52 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/homepageinfo.php on line 2
+[09-Jul-2015 01:59:52 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/admin/homepageinfo.php on line 2
+[09-Jul-2015 01:59:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/admin/homepageinfo.php on line 3
+[09-Jul-2015 10:14:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rgdclients/public_html/admin/clientaddscript.php on line 6
+[09-Jul-2015 10:16:29 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/admin/clientaddscript.php on line 4
+[09-Jul-2015 10:16:29 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/clientaddscript.php on line 6
+[09-Jul-2015 10:20:22 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/clientaddscript.php on line 3
+[09-Jul-2015 10:20:22 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/clientaddscript.php on line 7
+[09-Jul-2015 10:38:38 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 10
+[09-Jul-2015 10:40:44 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 10
+[09-Jul-2015 10:42:14 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 12
+[09-Jul-2015 14:35:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/clientaddscript.php on line 3
+[09-Jul-2015 14:35:27 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/clientaddscript.php on line 7
+[11-Jul-2015 08:49:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 12
+[11-Jul-2015 19:46:48 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 12
+[13-Jul-2015 12:12:06 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:12:06 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:12:06 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:12:06 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:12:06 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/dbconnect.php:19) in /home/rgdclients/public_html/admin/login_exec.php on line 41
+[13-Jul-2015 12:13:24 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:13:24 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:13:24 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:13:24 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 12:13:24 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/dbconnect.php:19) in /home/rgdclients/public_html/admin/login_exec.php on line 41
+[13-Jul-2015 20:13:24 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 20:13:24 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/rgdclients/public_html/admin/login_exec.php on line 20
+[13-Jul-2015 22:28:43 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/admin/includes/psl-config.php:20) in /home/rgdclients/public_html/admin/includes/functions.php on line 23
+[13-Jul-2015 22:28:43 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/admin/includes/functions.php on line 24
+[13-Jul-2015 22:28:43 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[13-Jul-2015 22:28:59 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 23
+[13-Jul-2015 22:31:08 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/admin/includes/psl-config.php:20) in /home/rgdclients/public_html/admin/includes/functions.php on line 23
+[13-Jul-2015 22:31:08 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/admin/includes/functions.php on line 24
+[13-Jul-2015 22:31:08 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[13-Jul-2015 22:31:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 23
+[13-Jul-2015 22:35:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 23
+[13-Jul-2015 22:42:28 America/Denver] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/dbdisconnect.php on line 6
+[13-Jul-2015 22:42:41 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 25
+[13-Jul-2015 22:46:36 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 25
+[13-Jul-2015 23:25:51 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 27
+[13-Jul-2015 23:29:31 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/rgdclients/public_html/admin/ajaxclientadd.php on line 27
+[14-Jul-2015 01:00:35 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 20
+[14-Jul-2015 01:00:35 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 20
+[14-Jul-2015 01:00:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/internaladd.php on line 20
+[14-Jul-2015 01:00:39 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/internaladd.php on line 20
+[14-Jul-2015 01:00:41 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/logoadd.php on line 20
+[14-Jul-2015 01:00:41 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/logoadd.php on line 20
+[14-Jul-2015 01:04:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 21
+[14-Jul-2015 01:04:40 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 21
+[14-Jul-2015 01:04:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/internaladd.php on line 21
+[14-Jul-2015 01:04:42 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/internaladd.php on line 21
+[14-Jul-2015 01:04:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/homepageadd.php on line 21
+[14-Jul-2015 01:04:51 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/homepageadd.php on line 21
+[14-Jul-2015 01:04:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/admin/logoadd.php on line 21
+[14-Jul-2015 01:04:53 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/admin/logoadd.php on line 21
+[14-Jul-2015 02:09:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[14-Jul-2015 02:10:06 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[14-Jul-2015 02:12:23 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 50
+[14-Jul-2015 02:12:25 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[14-Jul-2015 02:12:26 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[14-Jul-2015 02:13:01 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[14-Jul-2015 02:13:03 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[14-Jul-2015 15:02:03 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[14-Jul-2015 17:12:29 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[14-Jul-2015 17:12:34 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[14-Jul-2015 17:12:37 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[14-Jul-2015 18:35:19 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[14-Jul-2015 18:35:21 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[14-Jul-2015 18:35:22 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[19-Jul-2015 09:47:43 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[19-Jul-2015 09:48:26 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[19-Jul-2015 09:48:28 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[19-Jul-2015 09:48:29 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[19-Jul-2015 09:48:30 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[19-Jul-2015 09:48:30 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[19-Jul-2015 09:51:23 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:11) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[11-Aug-2015 12:18:12 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[18-Aug-2015 08:03:55 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[18-Aug-2015 08:04:22 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[18-Aug-2015 08:11:30 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[18-Aug-2015 08:12:13 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[18-Aug-2015 08:12:33 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[31-Aug-2015 11:36:05 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[31-Aug-2015 11:40:25 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[31-Aug-2015 15:28:23 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[31-Aug-2015 15:37:28 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[03-Sep-2015 11:02:57 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[03-Sep-2015 11:08:37 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[07-Sep-2015 13:48:54 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadiphp.php on line 50
+[07-Sep-2015 13:49:28 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51
+[07-Sep-2015 13:50:01 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadlphp.php on line 50
+[11-Sep-2015 08:52:41 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/admin/header.php:12) in /home/rgdclients/public_html/admin/uploadphp.php on line 51

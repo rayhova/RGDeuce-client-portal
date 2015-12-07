@@ -1,0 +1,151 @@
+[09-Jul-2015 01:03:43 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/homepages.php on line 3
+[09-Jul-2015 01:03:43 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/homepages.php on line 4
+[09-Jul-2015 01:04:32 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/homepages.php on line 3
+[09-Jul-2015 01:04:32 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/homepages.php on line 4
+[09-Jul-2015 01:05:23 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/homepages.php on line 3
+[09-Jul-2015 01:05:23 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/homepages.php on line 4
+[09-Jul-2015 01:07:14 America/Denver] PHP Warning:  include_once(/admin/header.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/homepages.php on line 2
+[09-Jul-2015 01:07:14 America/Denver] PHP Warning:  include_once(): Failed opening '/admin/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/homepages.php on line 2
+[09-Jul-2015 01:07:14 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/homepages.php on line 5
+[09-Jul-2015 01:07:14 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:08:16 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:08:16 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:10:51 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:10:51 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:10:51 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:12:31 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:12:31 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:12:31 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:15:13 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:15:13 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:15:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:16:20 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:16:20 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:16:20 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:16:24 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:16:24 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:16:24 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:18:10 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:18:10 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:18:10 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  include_once(dbconfig.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/header.php on line 2
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  include_once(): Failed opening 'dbconfig.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/header.php on line 2
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/header.php on line 3
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/header.php on line 3
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:20:13 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  include_once(dbconfig.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/header.php on line 2
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  include_once(): Failed opening 'dbconfig.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/header.php on line 2
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home/rgdclients/public_html/header.php on line 3
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rgdclients/public_html/header.php on line 3
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:21:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:21:29 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:21:29 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 6
+[09-Jul-2015 01:21:29 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:22:59 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:22:59 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:22:59 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rgdclients/public_html/homepages.php on line 8
+[09-Jul-2015 01:25:52 America/Denver] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:25:52 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/rgdclients/public_html/homepages.php on line 8
+[09-Jul-2015 01:30:12 America/Denver] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:30:12 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/homepages.php on line 7
+[09-Jul-2015 01:31:21 America/Denver] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rgdclients/public_html/homepages.php on line 7
+[13-Jul-2015 12:14:02 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:14:02 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:14:02 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:14:02 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:14:02 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/dbconnect.php:19) in /home/rgdclients/public_html/login_exec.php on line 41
+[13-Jul-2015 12:24:19 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:24:19 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:24:19 America/Denver] PHP Warning:  mysql_real_escape_string(): Access denied for user 'rgdclients'@'localhost' (using password: NO) in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:24:19 America/Denver] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:24:19 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/dbconnect.php:19) in /home/rgdclients/public_html/login_exec.php on line 41
+[13-Jul-2015 12:26:13 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:26:13 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:26:13 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/dbconnect.php:19) in /home/rgdclients/public_html/login_exec.php on line 41
+[13-Jul-2015 12:29:59 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:29:59 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/login_exec.php on line 20
+[13-Jul-2015 12:29:59 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/dbconnect.php:19) in /home/rgdclients/public_html/login_exec.php on line 41
+[13-Jul-2015 13:16:55 America/Denver] PHP Fatal error:  Call to undefined function clean() in /home/rgdclients/public_html/login_exec.php on line 17
+[13-Jul-2015 13:27:16 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rgdclients/public_html/dbconnect.php:19) in /home/rgdclients/public_html/login_exec.php on line 33
+[13-Jul-2015 13:31:00 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/login_exec.php on line 45
+[13-Jul-2015 13:31:12 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rgdclients/public_html/login_exec.php on line 45
+[13-Jul-2015 17:58:07 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 7
+[13-Jul-2015 17:58:07 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 8
+[13-Jul-2015 17:59:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 7
+[13-Jul-2015 17:59:21 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 8
+[13-Jul-2015 17:59:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 7
+[13-Jul-2015 17:59:55 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 8
+[13-Jul-2015 18:14:47 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 9
+[13-Jul-2015 18:14:47 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:14:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 9
+[13-Jul-2015 18:14:58 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:15:09 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 9
+[13-Jul-2015 18:15:09 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:16:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 9
+[13-Jul-2015 18:16:33 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:24:29 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:24:29 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 18:24:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:24:51 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 18:28:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:28:56 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 18:31:20 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 18:31:20 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:32 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:18:33 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:33 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:18:33 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:48 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:49 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rgdclients/public_html/includes/psl-config.php:20) in /home/rgdclients/public_html/includes/functions.php on line 23
+[13-Jul-2015 21:19:55 America/Denver] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/rgdclients/public_html/includes/functions.php on line 24
+[13-Jul-2015 21:23:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 21:23:01 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 21:23:01 America/Denver] PHP Fatal error:  Call to undefined function login_check() in /home/rgdclients/public_html/homepages.php on line 19
+[13-Jul-2015 21:23:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 21:23:10 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 21:23:10 America/Denver] PHP Fatal error:  Call to undefined function login_check() in /home/rgdclients/public_html/home.php on line 11
+[13-Jul-2015 21:23:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 21:23:26 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 21:23:26 America/Denver] PHP Fatal error:  Call to undefined function login_check() in /home/rgdclients/public_html/homepages.php on line 19
+[13-Jul-2015 21:24:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/rgdclients/public_html/header.php on line 10
+[13-Jul-2015 21:24:01 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rgdclients/public_html/header.php on line 11
+[13-Jul-2015 21:24:01 America/Denver] PHP Fatal error:  Call to undefined function login_check() in /home/rgdclients/public_html/home.php on line 11
+[13-Jul-2015 21:50:02 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:50:02 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:50:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:50:03 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:56:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:56:13 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 9
+[13-Jul-2015 21:58:15 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13
+[13-Jul-2015 21:58:15 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13
+[13-Jul-2015 21:58:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13
+[13-Jul-2015 21:58:32 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13
+[13-Jul-2015 22:00:04 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13
+[13-Jul-2015 22:00:04 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rgdclients/public_html/homepages.php on line 13

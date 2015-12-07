@@ -1,0 +1,102 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,300,700);
+
+/* CSS Document */
+html{ margin:0;
+}
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: #000;
+  width: 100%;
+  height: 80px;
+    position: fixed;
+  top: 0;
+}
+nav {
+ width: 75%;
+  padding-top: 40px;
+  float:left;
+}
+ul {
+  list-style-type: none;
+}
+ul.menu.admin {
+  padding-top: 0;
+  margin-top: 0;
+}
+.menu li {
+  float: left;
+  padding-right: 10px;
+}
+.menu li a {
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:300;
+  font-size: 18px;
+  color: #fff;
+}
+.menu li a:hover {
+  text-decoration: underline;
+  color: #FF0000;
+}
+.logo img {
+  max-width: 100%;
+}
+.logo {
+  float: left;
+  width: 25%;
+}
+.clear-both {
+	clear:both;
+}
+.container {
+	width:1280px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.main.container {
+  margin-top: 90px;
+}
+.mockup-container {
+  width: 100%;
+}
+.mockup-container img {
+  max-width: 100%;
+}
+
+tr.table-headerrow {
+  font-weight: bold;
+  font-size: 24px;
+}
+td.table-firstcolumn {
+  font-weight: bold;
+  font-size: 18px;
+  width: 10%;
+  padding-top: 30px;
+  height: 175px;
+}
+td.one-third-column {
+  width: 30%;
+}
+img.homepagethumb {
+  width: 50%;
+}
+
+.homepage-mock {
+  width: 50%;
+  border-bottom: 1px solid;
+  margin-bottom: 30px;
+}
+img.homepagesmock {
+  width: 50%;
+}
+
+@media screen and (max-width: 1280px) {
+.container {
+	width:95%;	
+}
+}
